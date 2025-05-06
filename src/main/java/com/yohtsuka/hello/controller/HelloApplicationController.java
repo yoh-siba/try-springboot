@@ -1,4 +1,4 @@
-package com.yohtsuka.hello;
+package com.yohtsuka.hello.controller;
 
 import java.util.List;
 
